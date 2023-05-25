@@ -1,0 +1,2 @@
+[2023-05-24 18:17:16] [ ERROR] [Animal:37] org.h2.Driver
+[2023-05-24 18:17:16] [ ERROR] [Animal:42] Cannot invoke "java.sql.Connection.close()" because "Connection" is null
